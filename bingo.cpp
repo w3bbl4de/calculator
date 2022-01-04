@@ -129,5 +129,5 @@ int main()
   break;
   }
   }
-  cin>>noo;
+  cin>>no;
 }
